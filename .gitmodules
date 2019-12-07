@@ -1,0 +1,6 @@
+[submodule "gym-duckietown"]
+	path = gym-duckietown
+	url = https://github.com/esalcort/gym-duckietown.git
+[submodule "PPO"]
+	path = PPO
+	url = https://github.com/esalcort/PPO.git
