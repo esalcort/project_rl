@@ -4,3 +4,6 @@
 [submodule "PPO"]
 	path = PPO
 	url = https://github.com/esalcort/PPO.git
+[submodule "PPO-PyTorch"]
+	path = PPO-PyTorch
+	url = https://github.com/esalcort/PPO-PyTorch.git
