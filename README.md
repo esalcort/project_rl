@@ -9,7 +9,7 @@ The PPO models are saved at:
 ```
   ./PPO-PyTorch/
 ```
-To run PPO for testing, download from drive (if trained with [Run_policies.ipynb](https://github.com/esalcort/project_rl/blob/master/Run_policies.ipynb) were followed) or copy into preTrained:
+To run PPO for testing, download from drive (if trained with [Run_policies.ipynb](https://github.com/esalcort/project_rl/blob/master/Run_policies.ipynb)) or copy into preTrained:
 ```
 cd PPO-PyTorch
 cp PPO_continuous_Duckietown-loop_empty-v0.pth ./preTrained/
