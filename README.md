@@ -4,7 +4,7 @@ Try RL policies for duckietown
 We ran the policies on google colab. See some examples at ([Run_policies.ipynb](https://github.com/esalcort/project_rl/blob/master/Run_policies.ipynb)).
 
 
-#PPO
+# PPO
 The PPO models are saved at:
 ```
   ./PPO-PyTorch/
@@ -16,7 +16,7 @@ cp PPO_continuous_Duckietown-loop_empty-v0.pth ./preTrained/
 python3 test_continuous.py
 ```
 
-#DDPG and SAC: 
+# DDPG and SAC: 
 Follow Duckietown instructions to install all the necessary dependencies
 To run SAC for training: change directory to gym-duckietown/learning
 ```
